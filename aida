@@ -49,7 +49,7 @@ https://templatemo.com/tm-531-reflux
                 Algorithms and Complexity, <br>
                 Information and Computing Sciences, <br>
                 Utrecht University
-                <-- Email: <a href = "mailto: a.jabalameli@uu.nl">a.jabalameli@uu.nl</a> -->
+                <!-- Email: <a href = "mailto: a.jabalameli@uu.nl">a.jabalameli@uu.nl</a> -->
               </p>
             </div>
             <nav class="main-nav" role="navigation">
@@ -259,17 +259,18 @@ https://templatemo.com/tm-531-reflux
           </div>
           <div class="section-par">
             <ul style="text-align:left">
-              <li>A. Abiad, A. Jabal Ameli and L. Reijnders <b>"The clique number of the exact distance t-power graph: complexity and eigenvalue bounds"</b>, Discrete Applied Mathematics</li>
-              <li>D. Hyatt Denesik, A. Jabal Ameli and B. Smeulders <b>"Approximation Algorithm for k-scenario Matching Problem"</b>, WAOA 2024</li>
-              <li>D. Hyatt Denesik, A. Jabal Ameli and L. Sanita <b>"Improved Approximation for Flexible Network Design"</b>, ESA 2024</li>
-              <li>D. Hyatt Denesik, A. Jabal Ameli and L. Sanita <b>"Finding Almost Tight Witness Trees"</b>, ICALP 2023</li>
-              <li>M. Calvo Bosch, F. Grandoni and A. Jabal Ameli <b>"A 4/3 Approximation for 2-Vertex-Connectivity"</b>, ICALP 2023</li>
-              <li>M. Garg, F. Grandoni and A. Jabal Ameli <b>”Improved Approximation for Two-Edge-Connectivity”</b>, SODA 2023</li>
-              <li>F. Grandoni, A. Jabal Ameli and V. Traub <b>”Breaching the 2-approximation Barrier for the Forest Augmentation Problem”</b>, STOC 2022</li>
-              <li>W. Galvez, F. Grandoni, A. Jabal Ameli and K. Khodamoradi <b>”On the Demand Strip Packing problem"</b>, APPROX 2021</li>
-              <li>W. Galvez, F. Grandoni, A. Jabal Ameli, K. Jansen, A. Khan and M. Rau, <b>”A Tight (3/2+&epsilon) Approximation for Skewed Strip Packing”</b>, Algorithmica (Preliminary version accepted in APPROX 2020)</li>
-              <li>J. Birka, F. Grandoni and A. Jabal Ameli, <b>”Breaching 2-approximation for Connectivity Augmentation Problem”</b>, SIAM Journal of Computing (Preliminary version accepted in STOC 2019)</li>
-              <li>W. Galvez, F. Grandoni, A. Jabal Ameli and K. Sornat, <b>”On The Cycle Augmentation Problem: Hardness and Approximation Algorithms”</b>, Thoery of Computing systems 2021 (Preliminary version accepted in WAOA 2019)</li>
+              <li>M. Calvo Bosch, M. Garg, F. Grandoni, F. Hommelsheim, A. Jabal Ameli, and A. Lindermeyer  <b>"5/4-approximation for Two-Edge-Connectivity"</b>, STOC 2025</li>
+              <li>A. Abiad, A. Jabal Ameli and L. Reijnders <b>"The clique number of the exact distance t-power graph: complexity and eigenvalue bounds"</b>, Discrete Applied Mathematics 2025</li>
+              <li>D. Hyatt Denesik, A. Jabal Ameli, and B. Smeulders <b>"Approximation Algorithm for k-scenario Matching Problem"</b>, WAOA 2024</li>
+              <li>D. Hyatt Denesik, A. Jabal Ameli, and L. Sanita <b>"Improved Approximation for Flexible Network Design"</b>, ESA 2024</li>
+              <li>D. Hyatt Denesik, A. Jabal Ameli, and L. Sanita <b>"Finding Almost Tight Witness Trees"</b>, ICALP 2023</li>
+              <li>M. Calvo Bosch, F. Grandoni, and A. Jabal Ameli <b>"A 4/3 Approximation for 2-Vertex-Connectivity"</b>, ICALP 2023</li>
+              <li>M. Garg, F. Grandoni, and A. Jabal Ameli <b>”Improved Approximation for Two-Edge-Connectivity”</b>, SODA 2023</li>
+              <li>F. Grandoni, A. Jabal Ameli, and V. Traub <b>”Breaching the 2-approximation Barrier for the Forest Augmentation Problem”</b>, STOC 2022</li>
+              <li>W. Galvez, F. Grandoni, A. Jabal Ameli, and K. Khodamoradi <b>”On the Demand Strip Packing problem"</b>, APPROX 2021</li>
+              <li>W. Galvez, F. Grandoni, A. Jabal Ameli, K. Jansen, A. Khan, and M. Rau, <b>”A Tight (3/2+&epsilon) Approximation for Skewed Strip Packing”</b>, Algorithmica (Preliminary version accepted in APPROX 2020)</li>
+              <li>J. Birka, F. Grandoni, and A. Jabal Ameli, <b>”Breaching 2-approximation for Connectivity Augmentation Problem”</b>, SIAM Journal of Computing (Preliminary version accepted in STOC 2019)</li>
+              <li>W. Galvez, F. Grandoni, A. Jabal Ameli, and K. Sornat, <b>”On The Cycle Augmentation Problem: Hardness and Approximation Algorithms”</b>, Thoery of Computing systems 2021 (Preliminary version accepted in WAOA 2019)</li>
               <li>A. Jabal Ameli and H. Zarrabi-zadeh, <b>”On the Maximum Triangle Enclosure Problem”</b>,ICCG 2018</li>
             </ul>
           </div>
